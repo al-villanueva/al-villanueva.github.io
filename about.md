@@ -6,10 +6,10 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### Ich über mich
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a doctoral student at the Graduate School of Excellence advanced Manufacturing Engineering from the University of Stuttgart. My research topic currently holds the title: Generative Design for Analytics Solutions in Manufacturing. This means my research interests are mostly related to Machine Learning, Manufacturing Systems, Analytics, Visualization, Statistical Methods and the like.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alejandro.villanueva](mailto:email@domain.com)
