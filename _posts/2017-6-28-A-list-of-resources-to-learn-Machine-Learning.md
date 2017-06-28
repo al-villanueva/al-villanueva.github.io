@@ -11,3 +11,5 @@ As much as I have tried to keep it under control, the amount of interesting webs
 4. [CS229 Materials](http://cs229.stanford.edu/materials.html) : All slides from a Machine Learning by Ng at Standford. Not sure if it relates to the videos in the second link. But the reviews and every chapter are very useful.
 5. [AutoML Accepted Papers](https://sites.google.com/site/automl2016/accepted-papers) : List and download links for all papers related with the automation of Machine Learning Workshop of 2016
 6. [ML Summer School 2017](http://mlss.tuebingen.mpg.de/2017/speakers.html): Some slides and topics covered in the Machine Learning Summer School of 2017 in Tübingen. Hopefully it will get updated with more slides.
+7. [Algorithmauswahl für Azure ML](https://docs.microsoft.com/de-de/azure/machine-learning/machine-learning-algorithm-choice) : A cheat sheet in german to decide which algorithm to choose.
+8. [Cheatsheet für ML Algorithmen](https://docs.microsoft.com/de-de/azure/machine-learning/machine-learning-algorithm-cheat-sheet) : The actual cheat sheet that is used in the previous article to discuss the choice of a specific algorithm.
