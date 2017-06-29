@@ -13,16 +13,14 @@ It is a backlog of sources and ideas.
 
 Here are some reasons behind this blog in tabular form.
 
-Nr|Reasons|Description
-
----|---|---
-
-1|Traceability|It lets me see when did i come up with a certain idea
-
-2|Knowledge repository|It lets me clear up my browser tabs for new projects
-
-3|Content drafts| Eventually if this is good enough, it can be taken into a Latex file
+| Nr   | Reasons              | Description                              |
+| ---- | -------------------- | ---------------------------------------- |
+| 1    | Traceability         | It lets me see when did i come up with a certain idea |
+| 2    | Knowledge repository | It lets me clear up my browser tabs for new projects |
+| 3    | Content drafts       | Eventually if this is good enough, it can be taken into a Latex file |
 
 And an image that can serve as inspiration and as reminder of the image insertion syntax
+
+
 
 ![Knowledge Repository](/images/repository.jpg "CC-BY 3.0 Hannes Grobe/AWI. Wikimedia Commons")
