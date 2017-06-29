@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A list of resources to learn Machine Learning
+tags: sources
 ---
 
 As much as I have tried to keep it under control, the amount of interesting websites that I find to learn more about the specifics of Machine Learning keeps growing and growing. The number of open tabs is now unmanageable, and so I think the best solution to this, is to list them down along with some note on why are these links important:
