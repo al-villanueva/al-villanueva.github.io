@@ -11,9 +11,18 @@ Aside from that, a blog enforces the writing habits and the skills needed to bri
 
 It is a backlog of sources and ideas.
 
-Attempting to change the original files present in the default installation.
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Here are some reasons behind this blog in tabular form.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Nr|Reasons|Description
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+---|---|---
+
+1|Traceability|It lets me see when did i come up with a certain idea
+
+2|Knowledge repository|It lets me clear up my browser tabs for new projects
+
+3|Content drafts| Eventually if this is good enough, it can be taken into a Latex file
+
+And an image that can serve as inspiration and as reminder of the image insertion syntax
+
+![Knowledge Repository](/images/repository.jpg "CC-BY 3.0 Hannes Grobe/AWI. Wikimedia Commons")
